@@ -3,4 +3,7 @@ The goal of this project is to identify the students who might need intervention
 It is a classification problem as it contains binary output as whether the student needs intervention or not. 
 The student data is saved as student-data.csv file.
 
+
+The entire project has been explained in detail in the python notebook StudentInterventionSystem.ipynb
+
 Dataset used: UCI Language : Python Packages : sklearn , matplotlib
