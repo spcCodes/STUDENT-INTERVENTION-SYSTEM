@@ -17,5 +17,5 @@ Model used:  \
     K-Nearest Neighbors (KNeighbors) \
     Stochastic Gradient Descent (SGDC) \ 
     Support Vector Machines (SVM) \
-    Logistic Regression \
+    Logistic Regression.
 
