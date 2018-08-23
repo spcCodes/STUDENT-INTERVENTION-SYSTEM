@@ -4,7 +4,7 @@ It is a classification problem as it contains binary output as whether the stude
 The student data is saved as student-data.csv file. \
 
 
-The entire project has been explained in detail in the python notebook StudentInterventionSystem.ipynb \
+# The entire project has been explained in detail in the python notebook StudentInterventionSystem.ipynb \
 
 Dataset used: UCI Language : Python Packages : sklearn , matplotlib \
 
