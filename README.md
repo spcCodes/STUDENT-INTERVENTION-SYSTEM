@@ -11,7 +11,7 @@ Dataset used: UCI Language : Python Packages : sklearn , matplotlib
 Type of Problem: Classification (Supervised learning)
 
 Model used: 
-    Gaussian Naive Bayes (GaussianNB)
+    Gaussian Naive Bayes (GaussianNB) \
     Decision Trees
     Ensemble Methods (Bagging, AdaBoost, Random Forest, Gradient Boosting)
     K-Nearest Neighbors (KNeighbors)
